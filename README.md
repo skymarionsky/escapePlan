@@ -1,7 +1,9 @@
-# mini Ludum Dare #48 entry
+# EscapePlan
 
-## Theme : Facade, Scheme, Conspiracy, Deceit
+* about
+** try to make a game like Tiny Wings
 
-* Tool Used:
-    * Language: ActionScript3.0
-    * Library/Framework: Starling
+* feature list
+** enemy chasing from behid
+** snowmorbile player
+** play can shoot
